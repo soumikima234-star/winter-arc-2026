@@ -1,0 +1,9 @@
+{
+  "name": "WINTER ARC 2026",
+  "short_name": "WINTER ARC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b0f0b",
+  "theme_color": "#101510",
+  "description": "Discipline over motivation."
+}
